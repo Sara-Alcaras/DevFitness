@@ -1,2 +1,2 @@
-# DevFitness
-DevFitness - Jornada .NET Direto ao Ponto 
+# DevFitness - Jornada .NET Direto ao Ponto 
+
